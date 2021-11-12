@@ -2,7 +2,7 @@
   "status": true,
   "code": 200,
   "creator": "Viko dwi kurniawan",
-  "result": *List Kode Bahasa Untuk Fitur tts id*
+  "result":{ *List Kode Bahasa Untuk Fitur tts id*
 
   af: Afrikaans,
   sq: Albanian,
@@ -57,5 +57,5 @@
   cy: Welsh
   
   Ketik /tts _Kode Bahasa_ _Text_
-  contoh /tts id Arasya Ganteng
+  contoh /tts id Arasya Ganteng }
 }
